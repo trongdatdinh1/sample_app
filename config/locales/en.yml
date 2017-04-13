@@ -35,6 +35,7 @@ en:
     and %{screen_cast_rails} screencast series
     to teach web development with %{RoR_link} Ruby on Rails.
     This is the sample application for the tutorial."
-  book: book
-  screen_cast: screencast series
-  ror_tut: Ruby on Rails tutorial
+  book: "book"
+  screen_cast: "screencast series"
+  ror_tut: "Ruby on Rails tutorial"
+  sample_app: "Sample App"

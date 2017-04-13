@@ -16,6 +16,7 @@ vi:
     vừa là %{screen_cast_rails}
     hướng dẫn lập trình web với %{RoR_link}.
     Đây là ví dụ đơn gỉan của 1 app"
-  book: sách
-  screen_cast: screencast series
-  ror_tut: Hướng dẫn Ruby on Rails
+  book: "sách"
+  screen_cast: "screencast series"
+  ror_tut: "Hướng dẫn Ruby on Rails"
+  sample_app: "App mẫu"
