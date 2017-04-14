@@ -39,3 +39,13 @@ en:
   screen_cast: "screencast series"
   ror_tut: "Ruby on Rails tutorial"
   sample_app: "Sample App"
+  contact: "Contact"
+  contact_content: "Contact the Ruby on Rails Tutorial about the sample app at the
+  %{contact_link}."
+  contact_page: "contact page"
+  login: "Login"
+  news: "News"
+  signup_now: "Sign up now"
+  signup: "Sign up"
+  signup_content: "This will be a signup page for new users."
+  footer_content: "The %{ror_tut_link} by %{author_link}"
