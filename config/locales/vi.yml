@@ -20,3 +20,13 @@ vi:
   screen_cast: "screencast series"
   ror_tut: "Hướng dẫn Ruby on Rails"
   sample_app: "App mẫu"
+  contact: "Liên hệ"
+  contact_content: "Liên hệ Ruby on Rails Tutorial về app mẫu tại
+  %{contact_link}."
+  contact_page: "trang liên hệ"
+  login: "Đăng nhập"
+  news: "Tin tức"
+  signup_now: "Đăng ký ngay"
+  signup: "Đăng ký"
+  signup_content: "Đây là nơi người dùng đăng ký tài khoản"
+  footer_content: "%{ror_tut_link} bởi %{author_link}"
