@@ -30,3 +30,30 @@ vi:
   signup: "Đăng ký"
   signup_content: "Đây là nơi người dùng đăng ký tài khoản"
   footer_content: "%{ror_tut_link} bởi %{author_link}"
+  welcome_to_sample_app: "Chào mừng tới App mẫu"
+  error_form: "From chứa %{err_num} lỗi!"
+  create_my_account: "Tạo tài khoản"
+  some_thing_went_wrong: "Có gì đó sai!"
+  activerecord:
+    attributes:
+      user:
+        name: "Tên người dùng"
+        email: "Email"
+        password: "Mật khẩu"
+        password_confirmation: "Mật khẩu xác nhận"
+    errors:
+      models:
+        user:
+          attributes:
+            name:
+              blank: "không được để trống"
+              too_long: "không được quá 50 kí tự"
+            email:
+              blank: "không được để trống"
+              too_long: "không được quá 255 kí tự"
+              invalid: "ko hợp lệ "
+            password:
+              blank: "không được để trống"
+              too_short: "không được dưới 6 kí tự"
+            password_confirmation:
+              confirmation: "không chính xác "
