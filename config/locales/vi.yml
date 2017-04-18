@@ -34,6 +34,13 @@ vi:
   error_form: "From chứa %{err_num} lỗi!"
   create_my_account: "Tạo tài khoản"
   some_thing_went_wrong: "Có gì đó sai!"
+  new_user?: "Người dùng mới? %{singup_now}"
+  password: "Mật khẩu"
+  account: "Tài khoản"
+  user: "Người dùng"
+  profile: "Thông tin"
+  settings: "Cài đặt"
+  logout: "Đăng xuất"
   activerecord:
     attributes:
       user:
