@@ -41,6 +41,7 @@ vi:
   profile: "Thông tin"
   settings: "Cài đặt"
   logout: "Đăng xuất"
+  remember_me: "Ghi nhớ trong máy"
   activerecord:
     attributes:
       user:
