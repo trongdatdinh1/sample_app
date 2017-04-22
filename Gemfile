@@ -16,15 +16,19 @@ gem "jquery-rails"
 gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.5"
 gem "bcrypt", "3.1.11"
+gem "faker", "1.6.6"
+gem "will_paginate", "3.1.0"
+gem "bootstrap-will_paginate", "0.0.10"
+
 group :development, :test do
   gem "byebug", platform: :mri
 end
 
 group :test do
   gem "rails-controller-testing", "0.1.1"
-  gem "minitest-reporters",       "1.1.9"
-  gem "guard",                    "2.13.0"
-  gem "guard-minitest",           "2.4.4"
+  gem "minitest-reporters", "1.1.9"
+  gem "guard", "2.13.0"
+  gem "guard-minitest", "2.4.4"
 end
 
 group :development do

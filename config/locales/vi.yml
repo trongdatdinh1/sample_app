@@ -42,6 +42,16 @@ vi:
   settings: "Cài đặt"
   logout: "Đăng xuất"
   remember_me: "Ghi nhớ trong máy"
+  profile_updated: "Thông tin đã được cập nhật"
+  user_deleted: "Đã xóa người dùng"
+  pls_login: "Bạn hãy đăng nhập"
+  users: "Danh sách người dùng"
+  delete: "Xóa"
+  you_sure?: "Chắc ko?"
+  edit_user: "Sửa người dùng"
+  update_your_profile: "Hãy cập nhật"
+  save_changes: "Lưu thay đổi"
+  change: "đổi"
   activerecord:
     attributes:
       user:
