@@ -13,5 +13,6 @@ module SampleApp
     # -- all .rb files in that directory are automatically loaded.
 
     config.i18n.default_locale = :en
+    config.middleware.use I18n::JS::Middleware
   end
 end
