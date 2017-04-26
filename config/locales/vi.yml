@@ -80,6 +80,15 @@ vi:
   can_not_empty: "ko được để trống"
   pass_expired: "Link đặt lại Mật khẩu đã hết hạn."
   update_pass: "Sửa mật khẩu"
+  micropost_deleted: "Đã xóa micropost"
+  micropost_feed: "micropost tin ngắn"
+  micropost: "Micropost"
+  max_pic_sizze: "File dung lượng tối đa 5MB. Pls chọn cái nhỏ hơn."
+  post: "Đăng"
+  compose_new_micropost: "Tạo micropost mới..."
+  view_my_profile: "hiển thị thông tin"
+  micropost_created: "Tạo micropost thành công"
+  should_less_than_5mb: "Phải dưới 5MB"
   activerecord:
     attributes:
       user:
