@@ -20,6 +20,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
+  RoR: "Ruby on Rails"
   static_title: "Ruby on Rails Tutorial Sample App"
   hello: "Hello world"
   home: "Home"
@@ -104,9 +105,10 @@ en:
   micropost_deleted: "Micropost deleted"
   micropost_feed: "Micropost Feed"
   micropost: "Micropost"
-  max_pic_sizze: "Maximum file size is 5MB. Please choose a smaller file."
+  max_pic_size: "Maximum file size is 5MB. Please choose a smaller file."
   post: "Post"
   compose_new_micropost: "Compose new micropost..."
   view_my_profile: "view my profile"
   micropost_created: "Micropost created!"
   should_less_than_5mb: "should be less than 5MB"
+  posted_x_ago: "Posted %{time} ago"

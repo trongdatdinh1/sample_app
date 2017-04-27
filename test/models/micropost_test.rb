@@ -11,7 +11,7 @@ class MicropostTest < ActiveSupport::TestCase
   end
 
   test "user id should be present" do
-    @micropost.user_id = nil
+    @micropost.user = nil
     assert_not @micropost.valid?
   end
 
@@ -26,6 +26,6 @@ class MicropostTest < ActiveSupport::TestCase
   end
 
   test "order should be most recent first" do
-    assert_equal microposts(:most_recent), Micropost.first
+    assert_equal microposts(:most_recent), Micropost.ordered_by_date.first
   end
 end
