@@ -23,3 +23,10 @@
 /config/database.yml
 /config/secrets.yml
 /test/fixtures/users.yml
+
+# Ignore uploaded test images.
+/public/uploads
+
+
+/public/javascripts/translations.js
+/app/assets/javascripts/i18n/translations.js

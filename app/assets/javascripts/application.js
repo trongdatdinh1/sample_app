@@ -11,6 +11,9 @@
 // about supported directives.
 //
 //= require jquery
+//= require i18n
+//= require i18n.js
+//= require i18n/translations
 //= require jquery_ujs
 //= require bootstrap
 //= require turbolinks
