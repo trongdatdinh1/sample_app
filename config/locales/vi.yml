@@ -91,6 +91,11 @@ vi:
   micropost_created: "Tạo micropost thành công"
   should_less_than_5mb: "Phải dưới 5MB"
   posted_x_ago: "Đăng %{time} trước"
+  following: "Following"
+  followers: "Followers"
+  unfollow: "Unfollow"
+  follow: "Follow"
+  view_my_profile: "view my profile"
   datetime:
     distance_in_words:
       about_x_hours: "giờ"

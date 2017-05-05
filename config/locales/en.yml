@@ -112,3 +112,8 @@ en:
   micropost_created: "Micropost created!"
   should_less_than_5mb: "should be less than 5MB"
   posted_x_ago: "Posted %{time} ago"
+  following: "Following"
+  followers: "Followers"
+  unfollow: "Unfollow"
+  follow: "Follow"
+  view_my_profile: "view my profile"
